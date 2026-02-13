@@ -1,0 +1,9 @@
+This project analyzes transactional sales data from Kimia Farma to evaluate overall business performance across regions in Indonesia from 2020 to 2023.
+The objective of this analysis is to transform raw transactional data into meaningful business insights using SQL-based data modeling in Google BigQuery and interactive dashboard visualization in Looker Studio.
+Through this project, key performance indicators such as revenue, profit, transaction volume, regional performance, and branch ratings are analyzed to identify trends, top-performing regions, and potential areas for operational improvement.
+This project demonstrates end-to-end data analytics workflow:
+1. Data transformation and modeling
+2. Metric calculation (nett sales & nett profit)
+3. Regional aggregation and performance evaluation
+4. Interactive dashboard development
+5. Business insight generation
